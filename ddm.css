@@ -1,0 +1,28 @@
+.dropdown { 
+    position: relative;  
+    display: inline-block;
+    margin-left: 1100px;
+    margin-top: 20px;
+    
+}
+.button {  
+    padding: 10px 30px;  
+    font-size: 20px;
+      
+}
+#list-items {  
+    display: none;  
+    position: absolute;  
+    background-color: rgb(240, 14, 191);  
+    min-width: 182px;
+    
+}
+#list-items a {  
+    display: block;  
+    font-size: 18px;  
+    background-color: #18b1c5;  
+    color: black;  
+    text-decoration: none;  
+    padding: 10px;  
+    padding-left: 40px;
+}          
